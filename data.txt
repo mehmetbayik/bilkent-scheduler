@@ -58,3 +58,15 @@ Cem Tekin	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of
 3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 08:30-10:20
 Thu 13:30-15:20
 header=[Hint] body=[Syllabus]  
+EEE 212-1	Microprocessors	
+Volkan Kurşun	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 13:30-15:20
+Wed 13:30-17:20
+Fri 08:30-10:20
+header=[Hint] body=[Syllabus]  
+EEE 212-2	Microprocessors	
+Aykut Koç	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Wed 10:30-12:20
+Thu 13:30-17:20
+Fri 15:30-17:20
+header=[Hint] body=[Syllabus]  
