@@ -6,37 +6,38 @@
 </head>
 <body>
   <h1>Schedule</h1>
-  
+  <p>Number of Schedules Found: {{ num_schedules }}</p>
   <div class="schedule-container">
-    {% set counter = 1 %}
-    {% for schedule in schedules %}
-      <h2>Schedule {{ counter }}</h2>
-      <table class="schedule-table">
-        <thead>
+    {% set current_schedule = session.get('current_schedule', 0) %}
+    <h2>Schedule {{ current_schedule + 1 }}</h2>
+    <table class="schedule-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Mon</th>
+          <th>Tue</th>
+          <th>Wed</th>
+          <th>Thu</th>
+          <th>Fri</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in schedules[current_schedule].iterrows() %}
           <tr>
-            <th></th>
-            <th>Mon</th>
-            <th>Tue</th>
-            <th>Wed</th>
-            <th>Thu</th>
-            <th>Fri</th>
+            <th>{{ row[0] }}</th>
+            {% for column in row[1] %}
+              <td>{{ column }}</td>
+            {% endfor %}
           </tr>
-        </thead>
-        <tbody>
-          {% for row in schedule.iterrows() %}
-            <tr>
-              <th>{{ row[0] }}</th>
-              {% for column in row[1] %}
-                <td>{{ column }}</td>
-              {% endfor %}
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-      {% set counter = counter + 1 %}
-    {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
   
+  <form action="{{ url_for('schedules') }}" method="post">
+    <button type="submit" name="submit" value="prev">Previous</button>
+    <button type="submit" name="submit" value="next">Next</button>
+  </form>
   
 </body>
 </html>
