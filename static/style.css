@@ -1,16 +1,79 @@
 /* style.css */
 
 .schedule-table {
-    width: 100%;
+    width: 90%;
     border-collapse: collapse;
-}
-
-.schedule-table th, .schedule-table td {
+  }
+  
+  .schedule-table th,
+  .schedule-table td {
     border: 1px solid #ddd;
-    padding: 8px;
     text-align: center;
-}
-
-.schedule-table th {
+  }
+  
+  .schedule-table td {
+    padding: 4px; /* Adjust the padding values as needed */
+  }
+  
+  .schedule-table th {
+    padding: 10px; /* Adjust the padding values as needed */
     background-color: #f2f2f2;
-}
+  }
+  
+  
+  .schedule-container {
+    margin-bottom: 20px;
+  }
+  
+  .schedule-navigation {
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .schedule-navigation button {
+    margin: 0 5px;
+  }
+  
+  /* Additional styling for better appearance */
+  .schedule-table {
+    font-family: Arial, sans-serif;
+  }
+  
+  .schedule-table th {
+    font-weight: bold;
+  }
+  
+  .schedule-table td {
+    background-color: #fff;
+  }
+  
+  .schedule-table tr:nth-child(even) td {
+    background-color: #f9f9f9;
+  }
+  
+  .schedule-table tr:hover td {
+    background-color: #eaf2ff;
+  }
+  
+  .schedule-table td:not(:empty) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .schedule-table td:first-child {
+    font-weight: bold;
+  }
+  
+  .schedule-table td.course-code {
+    color: #3366cc;
+  }
+  
+  .schedule-table td.course-title {
+    color: #555;
+  }
+  
+  .schedule-table td.course-time {
+    color: #999;
+  }
+  

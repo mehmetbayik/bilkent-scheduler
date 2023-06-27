@@ -57,7 +57,9 @@ def schedules():
     # Convert the schedules back to DataFrame
     schedules = []
     for schedule in schedules_json:
-        schedules.append(pd.DataFrame(schedule))
+        schedule = pd.DataFrame(schedule)
+        schedule.index = ['08:30-09:20', '09:30-10:20', '10:30-11:20', '11:30-12:20', 'Lunch', '13:30-14:20', '14:30-15:20', '15:30-16:20', '16:30-17:20']
+        schedules.append(schedule)
 
     # Get the current schedule index from the session
     current_schedule = session.get('current_schedule', 0)
