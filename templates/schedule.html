@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Schedule</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>Schedule</h1>
+  
+  <div class="schedule-container">
+    {% set counter = 1 %}
+    {% for schedule in schedules %}
+      <h2>Schedule {{ counter }}</h2>
+      <table class="schedule-table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Mon</th>
+            <th>Tue</th>
+            <th>Wed</th>
+            <th>Thu</th>
+            <th>Fri</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in schedule.iterrows() %}
+            <tr>
+              <th>{{ row[0] }}</th>
+              {% for column in row[1] %}
+                <td>{{ column }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% set counter = counter + 1 %}
+    {% endfor %}
+  </div>
+  
+  
+</body>
+</html>
