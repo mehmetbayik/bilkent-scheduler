@@ -128,5 +128,5 @@ class CourseScheduleExtractor:
                         df.loc['7', hours[j].split(' ')[0]] = course + '-' + str(combination[i])
                         df.loc['8', hours[j].split(' ')[0]] = course + '-' + str(combination[i])
             schedules.append(df)            
-            #ICD.display(df)
+            ICD.display(df)
         return schedules
