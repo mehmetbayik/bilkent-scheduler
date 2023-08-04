@@ -70,3 +70,13 @@ Aykut Koç	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses o
 Thu 13:30-17:20
 Fri 15:30-17:20
 header=[Hint] body=[Syllabus]  
+CS 464-1	Introduction to Machine Learning	
+Ayşegül Dündar Boral	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	65 Mand. or Elect.	65	0	0	0	65 Mand. or Elect.	65	Mon 10:30-12:20
+Wed 15:30-17:20
+header=[Hint] body=[Syllabus]  
+CS 464-2	Introduction to Machine Learning	
+Ayşegül Dündar Boral	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	65 Mand. or Elect.	65	0	0	0	65 Mand. or Elect.	65	Tue 10:30-12:20
+Thu 15:30-17:20
+header=[Hint] body=[Syllabus]  
