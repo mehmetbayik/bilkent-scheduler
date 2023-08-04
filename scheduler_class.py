@@ -112,7 +112,8 @@ class CourseScheduleExtractor:
             
             for i in range(len(self.courses)):
                 course = self.courses[i]
-                print(course + ' Section: ' + str(combination[i]))
+                course_info = self.get_course_info(course)
+                print(course + ' Section: ' + str(combination[i]) + '  ' +str(course_info[combination[i]-1]['Instructor Name']))
                 hours = self.get_lecture_hours(self.courses[i], combination[i])
                 for j in range(len(hours)):
                     if hours[j].split(' ')[1] == '08:30-10:20':
