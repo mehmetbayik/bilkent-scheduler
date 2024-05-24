@@ -1,0 +1,60 @@
+GEE 301-1	Science Technology and Society	
+Emine Öncüler Yayalar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Mon 10:30-12:20
+header=[Hint] body=[Syllabus]  
+GEE 301-2	Science Technology and Society	
+Robin Ann Downey	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Wed 15:30-17:20
+header=[Hint] body=[Syllabus]  
+GEE 301-3	Science Technology and Society	
+Robin Ann Downey	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Thu 08:30-10:20
+header=[Hint] body=[Syllabus]  
+GEE 301-4	Science Technology and Society	Staff	2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Mon 13:30-15:20
+header=[Hint] body=[Syllabus]  
+GEE 301-5	Science Technology and Society	Staff	2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Fri 10:30-12:20
+header=[Hint] body=[Syllabus]  
+GEE 301-6	Science Technology and Society	
+Emine Öncüler Yayalar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Tue 15:30-17:20
+header=[Hint] body=[Syllabus]  
+GEE 301-7	Science Technology and Society	
+Robin Ann Downey	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Tue 10:30-12:20
+header=[Hint] body=[Syllabus]  
+GEE 301-8	Science Technology and Society	Staff	2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Mon 15:30-17:20
+header=[Hint] body=[Syllabus]  
+GEE 301-9	Science Technology and Society	
+Emine Öncüler Yayalar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Wed 08:30-10:20
+header=[Hint] body=[Syllabus]  
+GEE 301-10	Science Technology and Society	
+Robin Ann Downey	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Fri 13:30-15:20
+header=[Hint] body=[Syllabus]  
+GEE 301-11	Science Technology and Society	Staff	2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Wed 10:30-12:20
+header=[Hint] body=[Syllabus]  
+GEE 301-12	Science Technology and Society	Staff	2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Fri 15:30-17:20
+header=[Hint] body=[Syllabus]  
+GEE 301-13	Science Technology and Society	
+Emine Öncüler Yayalar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Mon 08:30-10:20
+header=[Hint] body=[Syllabus]  
+GEE 301-14	Science Technology and Society	
+Robin Ann Downey	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Wed 13:30-15:20
+header=[Hint] body=[Syllabus]  
+GEE 301-15	Science Technology and Society	
+Robin Ann Downey	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Tue 08:30-10:20
+header=[Hint] body=[Syllabus]  
+GEE 301-16	Science Technology and Society	
+Emine Öncüler Yayalar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Fri 08:30-10:20
+header=[Hint] body=[Syllabus]  
+GEE 301-18	Science Technology and Society	Staff	2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Tue 15:30-17:20
+header=[Hint] body=[Syllabus]  
+GEE 301-19	Science Technology and Society	
+Emine Öncüler Yayalar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	0	2	3.5	20 Mand. or Elect.	20	0	0	0	20 Mand. or Elect.	20	Tue 13:30-15:20
+header=[Hint] body=[Syllabus]  

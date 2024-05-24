@@ -1,62 +1,10 @@
-CSS 464-1	Introduction to Machine Learning	
-Ayşegül Dündar Boral	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	0	3	5	65 Mand. or Elect.	65	0	0	0	65 Mand. or Elect.	65	Mon 10:30-12:20
-Wed 15:30-17:20
-header=[Hint] body=[Syllabus]  
-CSS 464-2	Introduction to Machine Learning	
-Ayşegül Dündar Boral	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	0	3	5	65 Mand. or Elect.	65	0	0	0	65 Mand. or Elect.	65	Tue 10:30-12:20
-Thu 15:30-17:20
-header=[Hint] body=[Syllabus]  
-EEE 212-1	Microprocessors	
-Volkan Kurşun	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 13:30-15:20
-Wed 13:30-17:20
-Fri 08:30-10:20
-header=[Hint] body=[Syllabus]  
-EEE 212-2	Microprocessors	
-Aykut Koç	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Wed 10:30-12:20
-Thu 13:30-17:20
-Fri 15:30-17:20
-header=[Hint] body=[Syllabus]  
-EEE 313-1	Electronic Circuit Design	
-Erdinç Tatar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Mon 15:30-17:20
-Tue 08:30-12:20
-Thu 10:30-12:20
-header=[Hint] body=[Syllabus]  
-EEE 313-2	Electronic Circuit Design	
-Erdinç Tatar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Mon 13:30-15:20
-Tue 13:30-17:20
-Thu 08:30-10:20
-header=[Hint] body=[Syllabus]  
-EEE 313-3	Electronic Circuit Design	
-Erdinç Tatar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	4	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 10:30-12:20
-Thu 15:30-17:20
-Fri 08:30-12:20
-header=[Hint] body=[Syllabus]  
-EEE 321-1	Signals and Systems	
-Süleyman Serdar Kozat	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	2	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Mon 08:30-10:20
-Wed 13:30-15:20
-Fri 15:30-17:20
-header=[Hint] body=[Syllabus]  
-EEE 321-2	Signals and Systems	
-Süleyman Serdar Kozat	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	2	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Mon 10:30-12:20
-Wed 15:30-17:20
-Thu 13:30-15:20
-header=[Hint] body=[Syllabus]  
 EEE 342-1	Feedback Control Systems	
-Hitay Özbay	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+Billur Barshan	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
 3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 08:30-10:20
 Thu 13:30-15:20
 header=[Hint] body=[Syllabus]  
 EEE 342-2	Feedback Control Systems	
-Hitay Özbay	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+Billur Barshan	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
 3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 10:30-12:20
 Thu 15:30-17:20
 header=[Hint] body=[Syllabus]  
@@ -66,27 +14,121 @@ Vakur Behçet Ertürk	header=[Hint] body=[Info & Courses] header=[Hint] body=[Ol
 Thu 08:30-10:20
 header=[Hint] body=[Syllabus]  
 EEE 351-2	Engineering Electromagnetics	
-Ayhan Altıntaş	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+Staff	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
 3	0	3	5	65 Mand. or Elect.	65	0	0	0	65 Mand. or Elect.	65	Wed 10:30-12:20
 Fri 15:30-17:20
 header=[Hint] body=[Syllabus]  
 EEE 351-3	Engineering Electromagnetics	
-Ayhan Altıntaş	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+Vakur Behçet Ertürk	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
 3	0	3	5	65 Mand. or Elect.	65	0	0	0	65 Mand. or Elect.	65	Wed 08:30-10:20
 Fri 13:30-15:20
 header=[Hint] body=[Syllabus]  
-EEE 447-1	Introduction to Robotics	
-Billur Barshan	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	0	3	5	40 Mand. or Elect.	40	0	0	0	40 Mand. or Elect.	40	Mon 13:30-15:20
-Thu 08:30-10:20
-header=[Hint] body=[Syllabus]  
-EEE 448-1	Reinforcement Learning and Dynamic Programming	
-Muhammed Ömer Sayın	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	0	3	5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Mon 08:30-10:20
+EEE 424-1	Digital Signal Processing	
+Süleyman Serdar Kozat	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	4	6.5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Mon 08:30-10:20
 Wed 13:30-15:20
 header=[Hint] body=[Syllabus]  
-EEE 485-1	Statistical Learning and Data Analytics	
-Cem Tekin	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
-3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 08:30-10:20
+EEE 428-1	Optics	
+Orhan Aytür	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	3	4	6.5	40 Mand. or Elect.	40	0	0	0	40 Mand. or Elect.	40	Tue 08:30-10:20
 Thu 13:30-15:20
 header=[Hint] body=[Syllabus]  
+EEE 431-1	Digital Communications	
+Nail Akar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Tue 13:30-15:20
+Fri 08:30-10:20
+header=[Hint] body=[Syllabus]  
+EEE 442-1	Nonlinear Systems	
+Ömer Morgül	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	45 Mand. or Elect.	45	0	0	0	45 Mand. or Elect.	45	Mon 10:30-12:20
+Wed 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 443-1	Neural Networks	
+Tolga Çukur	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Wed 08:30-10:20
+Fri 13:30-15:20
+header=[Hint] body=[Syllabus]  
+EEE 473-1	Medical Imaging	
+Emine Ülkü Sarıtaş	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Tue 08:30-10:20
+Thu 13:30-15:20
+header=[Hint] body=[Syllabus]  
+EEE 485-1	Statistical Learning and Data Analytics	
+Süleyman Serdar Kozat	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	55 Mand. or Elect.	55	0	0	0	55 Mand. or Elect.	55	Mon 10:30-12:20
+Wed 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 491-1	Electrical and Electronics Engineering Design I	
+İsmail Enis Ungan	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	4	3	6.5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Wed 10:30-12:20
+Sat 13:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 493-1	Industrial Design Project I	
+Mehmet Alper Kutay	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	2	3	6.5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Tue 10:30-12:20
+Thu 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 493-2	Industrial Design Project I	
+Mehmet Alper Kutay	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	2	3	6.5	30 Mand. or Elect.	30	0	0	0	30 Mand. or Elect.	30	Tue 10:30-12:20
+Thu 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 495-1	Electrical and Electronics Engineering Design II	
+Mehmet Alper Kutay	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+2	4	3	6.5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Thu 13:30-17:20
+Fri 10:30-12:20
+header=[Hint] body=[Syllabus]  
+EEE 501-1	Linear System Theory	
+Arif Bülent Özgüler	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Tue 10:30-12:20
+Thu 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 514-1	Introduction to CMOS VLSI Design	
+Volkan Kurşun	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	10 Mand. or Elect.	10	0	0	0	10 Mand. or Elect.	10	Mon 15:30-17:20
+Thu 10:30-12:20
+header=[Hint] body=[Syllabus]  
+EEE 528-1	Optics	
+Orhan Aytür	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	10 Mand. or Elect.	10	0	0	0	10 Mand. or Elect.	10	Tue 08:30-10:20
+Thu 13:30-15:20
+header=[Hint] body=[Syllabus]  
+EEE 533-1	Random Processes	
+Nail Akar	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	50 Mand. or Elect.	50	0	0	0	50 Mand. or Elect.	50	Tue 15:30-17:20
+Fri 10:30-12:20
+header=[Hint] body=[Syllabus]  
+EEE 542-1	Nonlinear Systems	
+Ömer Morgül	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	10 Mand. or Elect.	10	0	0	0	10 Mand. or Elect.	10	Mon 10:30-12:20
+Wed 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 543-1	Neural Networks	
+Tolga Çukur	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	10 Mand. or Elect.	10	0	0	0	10 Mand. or Elect.	10	Wed 08:30-10:20
+Fri 13:30-15:20
+header=[Hint] body=[Syllabus]  
+EEE 560-1	Nanoengineering and Nanodevices	
+Ekmel Özbay	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	1	3	5	30 Mand. or Elect.	30	0	0	0	30 Mand. or Elect.	30	Mon 15:30-17:20
+Thu 10:30-12:20
+header=[Hint] body=[Syllabus]  
+EEE 573-1	Medical Imaging	
+Emine Ülkü Sarıtaş	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	10 Mand. or Elect.	10	0	0	0	10 Mand. or Elect.	10	Tue 08:30-10:20
+Thu 13:30-15:20
+header=[Hint] body=[Syllabus]  
+EEE 585-1	Statistical Learning and Data Analytics	
+Süleyman Serdar Kozat	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	5 Mand. or Elect.	5	0	0	0	5 Mand. or Elect.	5	Mon 10:30-12:20
+Wed 15:30-17:20
+header=[Hint] body=[Syllabus]  
+EEE 603-1	Advanced Electromagnetic Theory I	
+Ayhan Altıntaş	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	30 Mand. or Elect.	30	0	0	0	30 Mand. or Elect.	30	Tue 15:30-17:20
+Fri 10:30-12:20
+header=[Hint] body=[Syllabus]  
+EEE 634-1	Information Theory	
+Tolga Mete Duman	header=[Hint] body=[Info & Courses] header=[Hint] body=[Old Courses of Instructor] header=[Hint] body=[Instructor Evaluation]
+3	0	3	5	30 Mand. or Elect.	30	0	0	0	30 Mand. or Elect.	30	Tue 08:30-10:20
+Thu 13:30-15:20
